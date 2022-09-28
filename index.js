@@ -1,6 +1,6 @@
 // const Scraper = require("website-scraper");
 import Scraper from "website-scraper"
-console.log("Hey harshad let's learn nodejs basics");
+console.log("Hey harshad let's learn nodejs basics..");
 
 let options = {
   urls: ["https://github.com/"],
